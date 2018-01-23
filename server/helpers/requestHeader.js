@@ -1,0 +1,1 @@
+exports.uri = 'http://api.spotme.artapiranti.com/api/v1'
